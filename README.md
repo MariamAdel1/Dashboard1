@@ -13,6 +13,6 @@ It showcases a clean layout with sections for charts, statistics, and other visu
 
 ## 🛠 Technologies Used
 - *HTML5*
-- *CSS3* (Flexbox / Grid)
+- *CSS3* 
 
-## 📂 Project Structure
+
